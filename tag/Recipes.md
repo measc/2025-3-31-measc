@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: Recipes.md
+title: Recipes
 tag: Recipes
 robots: noindex
 ---
