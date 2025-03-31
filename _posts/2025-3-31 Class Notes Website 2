@@ -1,1 +1,21 @@
+Adding content from External Sites - using Iframe.  Embed Code used symbols <> in a circle is symbol
+ifc.juncture-digital.org
+google sheets, Fliker, WikimediaCommons
 
+Link for new website template is https://github.com/SCHH-Commons/website/website-template (I have bookmarked)
+  GREEN Button -> Create new
+  Naming  YYY-MM-DD title
+Branches can be used to share info at current stage for back reference
+SETTINGS -> Pages -> Build & Deployment  Source will be Main Branch 
+
+Far Right of page SETTiNGS (Gear emblem) above repository name
+  CHECK box Use Your GitHub Page website  -> SAVE CHANGES
+
+MarkDown .md  YYYY-MM-DD title .md 
+
+TAG -> raw -> copy & Paste CHANGE Title TAG and new name.md
+
+Using Mark Down,  Mark Down Guide YTube Post on Mark Down, Dillinger Mark Down Editor
+  Symbols used to BOLD italics etc.
+
+inserting image  `image src=wc: name right (for side page)
